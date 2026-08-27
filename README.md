@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Ágatha!
+# Olá, eu sou a Ágatha!
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
